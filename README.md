@@ -15,7 +15,7 @@
 
 ## 🧠 About me
 
-AI/ML Engineer with 5+ years of experience building production-grade ML, Deep Learning, and Generative AI systems — primarily in healthcare and enterprise environments.
+AI/ML Engineer with 4+ years of experience building production-grade ML, Deep Learning, and Generative AI systems — primarily in healthcare and enterprise environments.
 
 Currently at **Medtronic**, architecting an LLM-powered clinical document intelligence platform using RAG pipelines, ClinicalBERT, and LLaMA-3. Passionate about **responsible, explainable AI** that creates real-world impact — not just impressive demos.
 
